@@ -27,6 +27,9 @@ WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
 WebDriverWait(driver, 10).until(EC.element_to_be_clickable(
     (By.XPATH, "/html/body/div[5]/div/div/div[1]/div/div[1]/div/div/div/div/div/div[2]/div/div/div/div/div/div[1]/div/div/div/div/div[3]/div/div/div/div/button[2]".replace(" ", ".")))).click()
 
+#$0.getBoundingClientRect()
+#var centerX = offset.left + width / 2;
+#var centerY = offset.top + height / 2;
 
 
 
