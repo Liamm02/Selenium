@@ -38,10 +38,3 @@ This data engineering project is designed to extract information about upcoming 
 
 4. View the extracted flight information in the output or save it to a file as needed.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or fix any issues.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
